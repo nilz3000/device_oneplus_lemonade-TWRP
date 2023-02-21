@@ -58,7 +58,6 @@ on fs
 on boot
     exec u:r:recovery:s0 -- /system/bin/variant-script.sh
     exec u:r:recovery:s0 -- /system/bin/set-timestamp.sh
-    setprop sys.usb.config adb
 
 on property:twrp.modules.loaded=true
     # Load ADSP firmware for PMIC
