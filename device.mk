@@ -2,7 +2,7 @@
 # Copyright (C) 2021-2022 The LineageOS Project
 #
 #
-TW_DEVICE_VERSION := 5
+TW_DEVICE_VERSION := 6
 # AAPT
 PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xxxhdpi
